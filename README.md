@@ -14,13 +14,7 @@ The application also supports saving and loading tasks to/from a JSON file.
  Mark a task as complete.
 Save and load tasks to/from `tasks.json`.
 
-## Project Structure
-plaintext
-task_manager/
-├── docs/
-│   └── instructions.md        # Detailed usage instructions
-├── src/
-│   └── task_manager.py        # Main Python script
-├── data/
-│   └── tasks.json             # JSON file for storing tasks
-└── README.md                  # Project documentation
+Acknowledgments:
+
+Inspired by common task management applications.
+Thanks to all contributors for their support.
