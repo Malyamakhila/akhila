@@ -17,4 +17,5 @@ Save and load tasks to/from `tasks.json`.
 Acknowledgments:
 
 Inspired by common task management applications.
+
 Thanks to all contributors for their support.
